@@ -1,0 +1,8 @@
+python code project 
+for a restaurant 
+which helping with billing 
+to make it easy 
+I seen it for prctice
+try it out 
+you only should have a python compile on your laptop
+and have fun explore it
